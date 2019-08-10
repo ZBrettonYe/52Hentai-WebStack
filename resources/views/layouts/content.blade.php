@@ -2,7 +2,7 @@
 
     @if(count($category->sites) != 0)
 
-        <h4 class="text-gray"><i class="linecons-tag" style="margin-right: 7px;" id="{{ $category->title }}"></i>{{ $category->title }}</h4>
+        <h4 class="text-gray"><i class="fa fa-fw {{ $categorie->icon }}" style="margin-right: 7px;" id="{{ $category->title }}"></i>{{ $category->title }}</h4>
 
         @php
             $category->sites()->chunk(4, function($sites){
