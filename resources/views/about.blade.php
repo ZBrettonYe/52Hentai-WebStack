@@ -28,10 +28,10 @@
                             <div class="row">
                                 <div class="col-sm-12">
                                     <blockquote>
-                                        <p>这是一个开源的网址导航网站项目，您可以拿来制作自己的网址导航，也可以做与导航无关的网站。</p>
-                                        </br>
-                                        <p>网站前台静态页面采用 <a href="http://viggoz.com/" target="_blank">viggoz</a> 的 <a href="https://github.com/WebStackPage/WebStackPage.github.io">WebStack</a> 项目源码。</p>
-                                        <p>如果对本项目有任何建议都可以发起 issue。</p>
+                                        <p>本站隶属于绅士世界-助手集。我们注重简单，快捷化培养一个绅士。零基础，快速变成老司机</p>
+                                        <br />
+                                        <p>如果您也想提供一些本站未收入的网站，欢迎发邮至 monkeyblacktech97@gmail.com</p>
+                                        <p>也欢迎您加入我们的<a href="https://jq.qq.com/?_wv=1027&k=5vveZbr" target="_blank">咸鱼队伍</a></p>
                                     </blockquote>
                                 </div>
                             </div>
@@ -46,9 +46,9 @@
                                             </a>
                                             <div class="xe-comment">
                                                 <a href="#" class="xe-user-name overflowClip_1">
-                                                    <strong>Designer. hui-ho.</strong>
+                                                    <strong>Designer. hui-ho.| 提供方. 绅士世界</strong>
                                                 </a>
-                                                <p class="overflowClip_2"> hui-ho@outlook.com</p>
+                                                <p class="overflowClip_2"> monkeyblacktech97@gmail.com</p>
                                             </div>
                                         </div>
                                     </div>
@@ -59,7 +59,7 @@
                                             <br />
                                             <blockquote>
                                                 <p>
-                                                    这是一个公益项目，而且是<a href="https://github.com/hui-ho/WebStack-Laravel"> 开源 </a>的。你也可以拿来制作自己的网址导航。如果你有更好的想法，可以通过邮件与我联系，欢迎与我交流分享。
+                                                    本站基于<a href="https://github.com/hui-ho/WebStack-Laravel"> 开源项目 </a>二次开发，如果您在使用中出现什么问题可以邮件联系 monkeyblacktech97@gmail.com
                                                 </p>
                                             </blockquote>
                                         </div>
@@ -76,7 +76,7 @@
                 <div class="footer-inner">
                     <div class="footer-text">
                         &copy; 2019
-                        <a href="/"><strong>WebStack</strong></a> design by <a href="https://github.com/hui-ho" target="_blank"><strong>hui-ho</strong></a>
+                        <a href="/"><strong>吾爱绅士导航</strong></a> 由<a href="https://github.com/hui-ho" target="_blank"><strong>hui-ho</strong></a>设计 | 由 <a href="https://jq.qq.com/?_wv=1027&k=5vveZbr" target="_blank"><strong>绅士世界</strong>提供</a>
                     </div>
                     <div class="go-up">
                         <a href="#" rel="go-top">
