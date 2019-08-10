@@ -45,12 +45,13 @@
                 </li>
             @endforeach
 
-            <div class="submit-tag">
+            <li class="submit-tag">
                 <a href="/about">
                     <i class="fa fa-fw linecons-heart"></i>
-                    <span class="title">关于本站</span>
+                    <span class="tooltip-blue">关于本站</span>
+                    <span class="label label-Primary pull-right hidden-collapsed">♥︎</span>
                 </a>
-            </div>
+            </li>
         </ul>
     </div>
 </div>
