@@ -12,7 +12,7 @@ class Category extends Model
 
     public function children()
     {
-        return $this->hasMany(static::class, 'parent_id');
+        return $this->hasMany(static::class, 'parent_id')->orderBy('order');
     }
 
     public function sites()
