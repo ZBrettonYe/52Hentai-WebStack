@@ -13,7 +13,6 @@
                 </a>
             </div>
             <div class="navbar-mobile-clear"></div>
-            <a href="https://github.com/hui-ho/WebStack-Laravel" target="_blank"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub"></a>
         </div>
     </nav>
     <div class="page-container">
@@ -39,10 +38,10 @@
                             <h4 class="text-gray">关于作者</h4>
                             <div class="row">
                                 <div class="col-sm-4">
-                                    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('http://www.viggoz.com/', '_blank')" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="http://www.viggoz.com/">
+                                    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://jq.qq.com/?_wv=1027&k=5vveZbr', '_blank')" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="https://jq.qq.com/?_wv=1027&k=5vveZbr">
                                         <div class="xe-comment-entry">
                                             <a class="xe-user-img">
-                                                <img src="https://avatars1.githubusercontent.com/u/28501148?s=460&v=4" class="img-circle" width="40">
+                                                <img src="https://i.jpg.dog/img/f9dafca196680a8b6574b0e937170228.png" class="img-circle" width="40">
                                             </a>
                                             <div class="xe-comment">
                                                 <a href="#" class="xe-user-name overflowClip_1">
