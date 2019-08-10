@@ -48,8 +48,7 @@
             <div class="submit-tag">
                 <a href="/about">
                     <i class="fa fa-fw linecons-heart"></i>
-                    <span class="tooltip-blue hidden-collapsed">关于本站</span>
-                    <span class="label label-Primary pull-right hidden-collapsed">♥︎</span>
+                    <span class="title">关于本站</span>
                 </a>
             </div>
         </ul>
