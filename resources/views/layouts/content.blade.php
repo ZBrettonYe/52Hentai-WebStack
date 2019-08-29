@@ -5,8 +5,8 @@
         <h4 class="text-gray"><i class="fa fa-fw {{ $category->icon }}" style="margin-right: 7px;" id="{{ $category->title }}"></i>{{ $category->title }}</h4>
 
         @php
-            $category->sites()->chunk(4, function($sites){
-                echo '<div class="row">';
+            foreach ($category->sites->chunk(4) as $sites){
+            echo '<div class="row">';
 
                 foreach($sites as $site){
                     echo <<<EOF
@@ -29,7 +29,7 @@ EOF;
                 }
 
                 echo '</div>';
-            });
+            }
         @endphp
 
     @endif

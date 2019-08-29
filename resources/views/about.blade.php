@@ -30,7 +30,7 @@
                                         <p>本站隶属于绅士世界-助手集。我们注重简单，快捷化培养一个绅士。零基础，快速变成老司机</p>
                                         <br />
                                         <p>如果您也想提供一些本站未收入的网站，欢迎发邮至 monkeyblacktech97@gmail.com</p>
-                                        <p>也欢迎您加入我们的<a href="https://jq.qq.com/?_wv=1027&k=5vveZbr" target="_blank">咸鱼队伍</a></p>
+                                        <p>也欢迎您加入我们的<a href="https://jq.qq.com/?_wv=1027&k=5A2YZAO" target="_blank">咸鱼队伍</a></p>
                                     </blockquote>
                                 </div>
                             </div>
@@ -38,7 +38,7 @@
                             <h4 class="text-gray">关于作者</h4>
                             <div class="row">
                                 <div class="col-sm-4">
-                                    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://jq.qq.com/?_wv=1027&k=5vveZbr', '_blank')" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="https://jq.qq.com/?_wv=1027&k=5vveZbr">
+                                    <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('https://jq.qq.com/?_wv=1027&k=5A2YZAO', '_blank')" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="https://jq.qq.com/?_wv=1027&k=5vveZbr">
                                         <div class="xe-comment-entry">
                                             <a class="xe-user-img">
                                                 <img src="https://i.jpg.dog/img/f9dafca196680a8b6574b0e937170228.png" class="img-circle" width="40">
@@ -75,7 +75,7 @@
                 <div class="footer-inner">
                     <div class="footer-text">
                         &copy; 2019
-                        <a href="/"><strong>吾爱绅士导航</strong></a> 由<a href="https://github.com/hui-ho" target="_blank"><strong>hui-ho</strong></a>设计 | 由 <a href="https://jq.qq.com/?_wv=1027&k=5vveZbr" target="_blank"><strong>绅士世界</strong>提供</a>
+                        <a href="/"><strong>吾爱绅士导航</strong></a> 由<a href="https://github.com/hui-ho" target="_blank"><strong>hui-ho</strong></a>设计 | 由 <a href="https://jq.qq.com/?_wv=1027&k=5A2YZAO" target="_blank"><strong>绅士世界</strong>提供</a>
                     </div>
                     <div class="go-up">
                         <a href="#" rel="go-top">

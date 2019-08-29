@@ -33,7 +33,7 @@
                     <!-- Add your copyright text here -->
                     <div class="footer-text">
                         &copy; 2019
-                        <a href="/"><strong>吾爱绅士导航</strong></a> 由<a href="https://github.com/hui-ho" target="_blank"><strong>hui-ho</strong></a>设计 | 由 <a href="https://jq.qq.com/?_wv=1027&k=5vveZbr" target="_blank"><strong>绅士世界</strong>提供</a>
+                        <a href="/"><strong>吾爱绅士导航</strong></a> 由<a href="https://github.com/hui-ho" target="_blank"><strong>hui-ho</strong></a>设计 | 由 <a href="https://jq.qq.com/?_wv=1027&k=5A2YZAO" target="_blank"><strong>绅士世界</strong>提供</a>
                     </div>
                     <!-- Go to Top Link, just add rel="go-top" to any link to add this functionality -->
                     <div class="go-up">

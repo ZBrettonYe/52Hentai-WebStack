@@ -71,6 +71,14 @@ $ php artisan serve
 ![网站](public/screen/04.png)
 
 
+## 其他
+
+本应用预设了一些站点数据，可以使用以下命令清除：
+
+```shell
+$ php artisan webstack:clean
+```
+
 
 ## 感谢
 
