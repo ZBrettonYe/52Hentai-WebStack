@@ -70,20 +70,7 @@
                     </div>
                 </div>
             </div>
-            <!-- Main Footer -->
-            <footer class="main-footer sticky footer-type-1 fixed">
-                <div class="footer-inner">
-                    <div class="footer-text">
-                        &copy; 2019
-                        <a href="/"><strong>吾爱绅士导航</strong></a> 由<a href="https://github.com/hui-ho" target="_blank"><strong>hui-ho</strong></a>设计 | 由 <a href="https://jq.qq.com/?_wv=1027&k=5A2YZAO" target="_blank"><strong>绅士世界</strong>提供</a>
-                    </div>
-                    <div class="go-up">
-                        <a href="#" rel="go-top">
-                            <i class="fa-angle-up"></i>
-                        </a>
-                    </div>
-                </div>
-            </footer>
+            @include('layouts.footer')
         </div>
     </div>
 </body>
