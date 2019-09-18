@@ -11,7 +11,7 @@
                 <strong>{{ env('APP_NAME') }}</strong>
             </a> design by
             <a href="https://github.com/hui-ho" target="_blank">
-                <strong>hui-ho</strong>| ÓÉ <a href="https://jq.qq.com/?_wv=1027&k=5A2YZAO" target="_blank"><strong>ÉğÊ¿ÊÀ½ç</strong>Ìá¹©</a>
+                <strong>hui-ho</strong>| ç”± <a href="https://jq.qq.com/?_wv=1027&k=5A2YZAO" target="_blank"><strong>ç»…å£«ä¸–ç•Œ</strong>æä¾›</a>
             </a>
             <span>{{ config('icp_record') }}</span>
         </div>
